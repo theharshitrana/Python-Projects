@@ -30,7 +30,7 @@ This repository is a collection of beginner to intermediate-level **Python proje
 8. **⚖️ BMI Calculator**  
    Calculates Body Mass Index based on user’s height and weight.
 
-9. **🍽 Tip Splitter App**  
+9. **🍽 Bill Splitter App**  
    Splits a restaurant bill and tip among a group of people.
 
 
