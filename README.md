@@ -18,7 +18,7 @@ This repository is a collection of beginner to intermediate-level **Python proje
 4. **🔐 Password Generator**  
    Generates strong, random passwords based on user-selected length and complexity.
 
-5. **⏰ Simple Alarm Clock**  
+5. **⏰ Alarm Clock**  
    A console-based alarm clock that triggers at a specific time using system audio.
 
 6. **🏦 Bank Functions (Withdraw, Deposit, Check Balance)**  
@@ -33,7 +33,7 @@ This repository is a collection of beginner to intermediate-level **Python proje
 9. **🍽 Bill Splitter App**  
    Splits a restaurant bill and tip among a group of people.
    
-10. **📅 Simple Reminder App (Console-Based)**  
+10. **📅 Reminder App (Console-Based)**  
     Allows users to set reminders that trigger at specified times.
 
 ---
