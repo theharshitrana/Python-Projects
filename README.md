@@ -32,7 +32,9 @@ This repository is a collection of beginner to intermediate-level **Python proje
 
 9. **🍽 Bill Splitter App**  
    Splits a restaurant bill and tip among a group of people.
-
+   
+10. **📅 Simple Reminder App (Console-Based)**  
+    Allows users to set reminders that trigger at specified times.
 
 ---
 
